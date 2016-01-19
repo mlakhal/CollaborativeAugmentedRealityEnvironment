@@ -1,0 +1,25 @@
+Base path: G:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-3276
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=1 insize=1207 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2197 outsize=2311 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2272 outsize=2430 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1207 outsize=211 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1207 outsize=314 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=7419 outsize=1744 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2197 outsize=1650 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2197 outsize=994 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2272 outsize=1127 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process

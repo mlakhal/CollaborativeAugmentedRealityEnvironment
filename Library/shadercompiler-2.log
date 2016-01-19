@@ -1,0 +1,24 @@
+Base path: G:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-2-7408
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=1207 outsize=1169 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 5 at (123): 'gl_' : reserved built-in name
+  api=5 type=0 insize=7419 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=5 type=1 insize=2197 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2272 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1207 outsize=428 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7419 outsize=234 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2197 outsize=428 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2272 outsize=428 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process
